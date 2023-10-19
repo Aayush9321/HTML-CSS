@@ -5,7 +5,6 @@ body{
     background-image: url(./Images/background.webp);
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: black;
 }
 main{
     display: flex;
